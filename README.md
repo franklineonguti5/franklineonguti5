@@ -1,96 +1,64 @@
-<div align="center">
+# Hello!! I'm Frankline Onguti
 
-# Hello! I'm Frankline Onguti
+## Welcome to my world of **Code & Innovation**
 
-**Welcome to my corner of GitHub**
+[![Generic badge](https://img.shields.io/badge/Software_Engineer-blue)](https://github.com/franklineonguti5)
+[![Generic badge](https://img.shields.io/badge/Full_Stack-Developer-brightgreen)](https://github.com/franklineonguti5)
+[![Generic badge](https://img.shields.io/badge/Web_Developer-yellowgreen)](https://github.com/franklineonguti5)
+[![Generic badge](https://img.shields.io/badge/Problem_Solver-orange)](https://github.com/franklineonguti5)
 
-</div>
+I am a trained Software Engineer based in Kenya, specialized in Full Stack Development, Web Applications, and creating scalable digital solutions.
 
----
+My philosophy centers on **building with purpose**: creating clean, maintainable code that solves real problems and delivers value. I believe in continuous learning, best practices, and crafting software that makes a difference.
 
-I am a Software Engineer passionate about building innovative solutions that solve real-world problems. Based in Kenya, I specialize in full-stack development and creating scalable applications that make a difference.
+## 🔧 My Arsenal
 
-My approach to development centers on **clean code**, **user-centric design**, and **continuous learning**. I believe in writing software that is not only functional but maintainable and impactful.
+I work across the full development stack, from frontend to backend and databases.
 
----
-
-## � My Tech Arsenal
-
-I work across the full development stack, from frontend interfaces to backend systems.
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 Software Development
-
-**Languages & Frameworks**
-- JavaScript / TypeScript
-- Python / Java
-- React / Next.js
-- Node.js / Express / Django
-
-</td>
-<td align="center" width="50%">
-
-### 🗄️ Data & Infrastructure
-
-**Databases & Tools**
-- PostgreSQL / MongoDB / MySQL
-- Git / Docker
-- AWS / Cloud Services
-- REST APIs / GraphQL
-
-</td>
-</tr>
-</table>
+|                     **Frontend Development**                      |                       **Backend Development**                        |                         **Tools & Platforms**                         |
+| :---------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,django,python" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode" /> |
+|                    _React, Next.js & Modern UI_                     |               _Node.js, Express & Python Frameworks_               |                        _DevOps & Cloud Services_                         |
 
 ---
 
-## 🛠️ What I Build
+## 🛠️ What I Build: "From Concept to Deployment"
 
-**Full-Stack Applications**  
-Creating end-to-end solutions from database design to user interface, focusing on performance, security, and user experience.
+### 1. Full-Stack Web Applications
 
-**Web & Mobile Solutions**  
-Building responsive applications that work seamlessly across devices, prioritizing accessibility and modern design patterns.
+Building end-to-end solutions with modern frameworks and scalable architectures, focusing on user experience and performance optimization.
 
-**Backend Systems**  
-Designing scalable APIs and server architectures that handle real-world complexity with reliability and efficiency.
+### 2. API Development & Integration
+
+_Creating robust RESTful APIs and integrating third-party services._
+(Currently working on microservices architecture and cloud-native solutions).
+
+> _I'm passionate about writing clean, efficient code that scales._
 
 ---
 
-## � GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklineonguti5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklineonguti5&layout=compact&theme=tokyonight&hide_border=true)
-
+<a href="https://github.com/franklineonguti5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklineonguti5&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always interested in working with developers who are passionate about creating meaningful software.
+I am passionate about collaborating with developers who share a vision for building impactful software.
 
-**"Code is not just about solving problems—it's about creating opportunities."**
+- "The best way to predict the future is to build it."
+- Open to collaboration on **Web Applications**, **Open Source Projects**, and **Innovative Tech Solutions**.
 
-Open to collaboration on **Open Source Projects**, **Web Applications**, and **Innovative Tech Solutions**.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankline-onguti-4875ab434)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklineonguti5@gmail.com)
-
-</div>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/frankline-onguti-4875ab434)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:franklineonguti5@gmail.com)
 
 ---
 
 <div align="center">
-
-*"Building the future, one line of code at a time."* - Frankline
-
+<i>"Building the future, one commit at a time." - Frankline</i>
 </div>
